@@ -31,7 +31,7 @@ function showMole() {
 function startGame(){
     score = 0; //resets score naar 0
     timer = 30; //resets timer naar 30 seconden
-    mole = null //resets mole
+    mole = null; //resets mole
     scoreCounter.textContent = score; //update score
     timeCounter.textContent = timer; //update timer
     clearInterval(gameInterval);
