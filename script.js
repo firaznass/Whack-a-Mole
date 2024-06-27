@@ -20,7 +20,7 @@ function showMole() {
     }
     const hole = randomHole(); // selecteert een random hole
     const moleImage = document.createElement('img');
-    moleImage.src = '/img/mol.png';
+    moleImage.src = 'mol.png';
     moleImage.alt = 'mole';
     moleImage.classList.add('mole');
     hole.appendChild(moleImage); //plaatst moleImage in hole element
