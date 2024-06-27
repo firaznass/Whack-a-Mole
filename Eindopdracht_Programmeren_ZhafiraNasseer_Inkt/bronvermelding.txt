@@ -1,0 +1,12 @@
+mol afbeelding:
+https://nohat.cc/f/european-mole-cartoon-enemy-the-mouse-material-transparent-background-png-clipart/comhiclipartitepm-201910190012.html
+
+
+voor appendChild element + chatgpt
+ik wist niet hoe je die mol in een hol moest zetten, dsu vroeg ik het aan chatgpt en kreeg als antwoord
+om appendChild te gebruiker, waarna ik vervolgens naar mnd ging om op te zoeken wat het element deed. 
+https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild
+
+Timer had ik gepakt van de oefenopdrachten die we tijdens de les moesten maken 
+en aangepast voor mijn game.
+
